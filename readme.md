@@ -9,7 +9,7 @@ This repository contains my weekly progress and work for the Turbin3 Solana Buil
 | Week   | Description                                                               | Status      |
 | ------ | ------------------------------------------------------------------------- | ----------- |
 | 0 | Local environment setup, wallet, Anchor project initialization (`week-0`) | ✅ Completed |
-| 1 | —                                                                         | ⏳ Pending   |
+| 1 | Rust CLI number guessing game with colored feedback (week-1)              | ✅ Completed |
 | 2 | —                                                                         | ⏳ Pending   |
 | 3 | —                                                                         | ⏳ Pending   |
 | 4 | —                                                                         | ⏳ Pending   |
